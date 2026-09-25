@@ -295,52 +295,20 @@ images/
 
 ### 🎮 Gameplay
 
-``` text
-images/
-└── 2.png
-```
+![Gameplay](images/1.png)
 
-``` markdown
-![Gameplay](images/2.png)
-```
 
 ### 🏆 Game Result
 
-``` text
-images/
-└── 3.png
-```
 
-``` markdown
-![Game Result](images/3.png)
-```
-
-### 🔄 Reset / Additional View
-
-``` text
-images/
-└── 4.png
-```
-
-``` markdown
-![Reset / Additional View](images/4.png)
-```
-
-### Recommended Screenshot Section
-
-For GitHub, you can use HTML if you want to control the image size:
-
-``` html
+<html>
 ## 📸 Screenshots
 
-<img src="images/1.png" alt="Main Game Window" width="400">
+<img src="images/2.png" alt="Main Game Window" width="400">
 
-<img src="images/2.png" alt="Gameplay" width="400">
+<img src="images/3.png" alt="Gameplay" width="400">
 
-<img src="images/3.png" alt="Game Result" width="400">
-
-<img src="images/4.png" alt="Additional Gameplay" width="400">
-```
+</html>
 
 ------------------------------------------------------------------------
 
